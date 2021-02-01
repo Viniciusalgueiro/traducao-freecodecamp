@@ -7,7 +7,8 @@ dashedName: part-4
 
 # --description--
 
-To prepare to create some actual content, add a `body` element below the `head` element.
+Para  preparar a criação de algum conteúdo real, adicione um elemento `body` abaixo do elemento` head`. 
+
 
 # --hints--
 

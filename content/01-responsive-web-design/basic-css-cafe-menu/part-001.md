@@ -1,15 +1,15 @@
 ---
 id: 5f33071498eb2472b87ddee4
-title: Part 1
+title: Parte 1
 challengeType: 0
 dashedName: part-1
 ---
 
 # --description--
 
-As you learned in the last few steps of the Cat Photo App, there is a basic structure need to start building your web page.
+Como você aprendeu nas últimas etapas do aplicativo Cat Photo, há uma estrutura básica necessária para começar a construir sua página da web.
 
-Add the `<!DOCTYPE html>` and an `html` element.
+Adicione o elemento `<! DOCTYPE html>` e um elemento `html`. 
 
 # --hints--
 
